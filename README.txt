@@ -1,13 +1,13 @@
-# Description:
+Description:
 This is a personal portfolio website hosted using GitHub Pages.
 
-# Contents:
+Contents:
 - HTML/CSS/JS files 
 - Projects and visualizations embedded or linked
 
-# Tools Used:
+Tools Used:
 - HTML, CSS
 - GitHub Pages
 
-# Purpose:
+Purpose:
 Showcase my professional and academic work in a clean portfolio format.
